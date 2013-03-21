@@ -1,4 +1,4 @@
-antartica
+Antartica
 =========
 
-A Glacier Backup tool
+A Glacier Backup tool.
